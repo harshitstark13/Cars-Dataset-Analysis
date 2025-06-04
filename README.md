@@ -37,9 +37,10 @@ This repository contains a Python analysis project on a classic Cars dataset. Th
 
 4. **Visualizations:**  
    - Multi-line plot showing the evolution of average mpg over the years by origin
-   - output1.png
+   - ![Description of image](output1.png)
+
    - Scatterplot of horsepower vs. weight, colored by origin and sized by mpg
-   - output2.png
+   - ![Description of image](output2.png)
 
 5. **Advanced Analysis:**  
    - Defined “consistent” car models as those produced over multiple years with very low mpg variation (std deviation < 1.0)  
