@@ -49,9 +49,3 @@ This repository contains a Python analysis project on a classic Cars dataset. Th
 - Pandas for data manipulation  
 - NumPy for numerical operations  
 - Matplotlib and Seaborn for visualization  
-
-## How to Run
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
