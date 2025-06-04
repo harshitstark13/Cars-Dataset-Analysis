@@ -36,8 +36,10 @@ This repository contains a Python analysis project on a classic Cars dataset. Th
    - Discovered car(s) with the best horsepower-to-weight ratio among cars with above-median mpg  
 
 4. **Visualizations:**  
-   - Multi-line plot showing the evolution of average mpg over the years by origin  
-   - Scatterplot of horsepower vs. weight, colored by origin and sized by mpg  
+   - Multi-line plot showing the evolution of average mpg over the years by origin
+   - output1.png
+   - Scatterplot of horsepower vs. weight, colored by origin and sized by mpg
+   - output2.png
 
 5. **Advanced Analysis:**  
    - Defined “consistent” car models as those produced over multiple years with very low mpg variation (std deviation < 1.0)  
